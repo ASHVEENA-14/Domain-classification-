@@ -1,31 +1,10 @@
-Classification Report - Science Domain Classification
+               precision    recall  f1-score   support
 
-Biology:
-Precision: 1.0000
-Recall: 1.0000
-F1-score: 1.0000
-Support: 317
+      Biology     1.0000    1.0000    1.0000       317
+    Chemistry     1.0000    1.0000    1.0000       101
+Earth Science     1.0000    1.0000    1.0000        81
+      Physics     1.0000    1.0000    1.0000       110
 
-Chemistry:
-Precision: 1.0000
-Recall: 1.0000
-F1-score: 1.0000
-Support: 101
-
-Earth Science:
-Precision: 1.0000
-Recall: 1.0000
-F1-score: 1.0000
-Support: 81
-
-Physics:
-Precision: 1.0000
-Recall: 1.0000
-F1-score: 1.0000
-Support: 110
-
-Overall Accuracy: 1.0000
-Macro Average F1: 1.0000
-Weighted Average F1: 1.0000
-
-Total Test Samples: 609
+     accuracy                         1.0000       609
+    macro avg     1.0000    1.0000    1.0000       609
+ weighted avg     1.0000    1.0000    1.0000       609
